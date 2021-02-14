@@ -131,7 +131,7 @@ These are not obligatory but big plus if you implement. Here's few suggestion of
 
 We are evaluating project according to the features which specified table at the below.
 
-First of all, candidates project should have all requirements at base table.
+First of all, a candidates project should have all base requirements:
 <br>
 
 
