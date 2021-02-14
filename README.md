@@ -135,12 +135,11 @@ First of all, a candidates project should have all base requirements:
 <br>
 
 
-| Base requirements  |       
-| --- | --- |
-| HTML Markup |
-| Framework implementation |
-| Production grade & Best practices | 
-| Project folder structure | 
+| Base requirements      
+| HTML Markup
+| Framework implementation
+| Production grade & Best practices 
+| Project folder structure 
 <br>
 
 Not necessary are the bonus features:
@@ -148,9 +147,8 @@ Not necessary are the bonus features:
 
 
 
-| Bonus   |           
-| --- | --- |
-| Typescript | 
-| Next.js | 
-| Git commit history| 
-| Unit Tests | 
+| Bonus           
+| Typescript 
+| Next.js 
+| Git commit history
+| Unit Tests 
