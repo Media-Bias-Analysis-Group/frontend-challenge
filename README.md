@@ -37,9 +37,9 @@ You can use frameworks or packages as long as you can explain to us why you chos
  </div>
 <br>
 
-We've provided a screen [designs](./design) for desktop version. You should follow design measurements in sketch file. 
+We've provided a screen [designs](./design) for desktop version. You should roughly follow design measurements in sketch file.There is no need to be pixel-exact here, we get the gist :).  
 
-There's no screens designed for the mobile version, but if you build a responsive app it's a big plus. 
+There should be at least very rough responsitivity.
 
 If you don't have licence for sketch visit their [official](https://www.sketch.com/) website to get a free trial version.
 
@@ -135,22 +135,22 @@ First of all, candidates project should have all requirements at base table.
 <br>
 
 
-| Base requirements | Point |          
+| Base requirements  |       
 | --- | --- |
-| HTML Markup | 10 Points |
-| React & State Management | 20 Points |
-| Production grade & Best practices | 15 Points |
-| Project folder structure | 5 Points |
+| HTML Markup |
+| Framework implementation |
+| Production grade & Best practices | 
+| Project folder structure | 
 <br>
 
-You will get extra points if have implement bonus features.
+Not necessary are the bonus features:
 <br>
 
 
 
-| Bonus   | Point |          
+| Bonus   |           
 | --- | --- |
-| Typescript | 15 Point |
-| Next.js | 5 Point |
-| Git commit history| 10 Point |
-| Unit Tests | 20 Point |
+| Typescript | 
+| Next.js | 
+| Git commit history| 
+| Unit Tests | 
