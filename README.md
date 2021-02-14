@@ -3,19 +3,19 @@
     <img width="500" src="./screenshots/logo.jpg" align="center" />
 </div>
 
-We are a young and innovative software development house located in the heart of beautiful İstanbul. We leverage agile methodologies, software life cycle best practices and cutting edge technology to deliver perfect solutions reflecting our passion for software development. 
+We are a group of researchers from various disciplines: Psychology, Linguistics, and Computer Science. Together we are developing systems and data sets to uncover media bias, or unbalanced coverage, for private or professional news consumers. We share the common vision of understanding how and why humans perceive news content as being biased, or one-sided. Within one year, our group has grown from one founder to over twenty members. You can find more about us on https://media-bias-group.com/
 
-We care about our company culture and invest people to create best teams of highly skilled developers.
+We care about our group culture and want to create some meaningful together. 
 
 ## About the challenge
 
-This is a basic test, in which you should be able to write a React app, using the provided screens as reference. You’ll need to get some JSON content, filter, sort and search the data and print it on view.
+This is a basic test, in which you should be able to write an app in a framework of your choice, using the provided screens as reference. You’ll need to get some JSON content, filter, sort and search the data and print it on view.
 
 Although this is a basic exercise, we’ll be looking for simple, well-designed and tested code in the submission.
 
 ## Task
 
-Using the provided screens as a reference, you’ll need to build a set of React components to render the app. You’ll also need to request a JSON feed, filter that data, and use the relevant fields. 
+Using the provided screens as a reference, you’ll need to build a set of components to render the app. You’ll also need to request a JSON feed, filter that data, and use the relevant fields. 
 
 We have provided mock movie data as a JSON file. While requesting JSON feed, we also ask you to use Redux for storing incoming data. So this stored data will be used when you build the app and the components.
 
@@ -23,7 +23,7 @@ Use the returned data to display a page of results that matches the given design
 
 Please include a README with setup instructions, and any tests or other documentation you created as part of your solution.
 
-We also recommend you to use [create-react-app](https://github.com/facebook/create-react-app)  in order not to make basic configuration yourself.
+In case you use React, we also recommend you to use [create-react-app](https://github.com/facebook/create-react-app)  in order not to make basic configuration yourself.
 
 You can use frameworks or packages as long as you can explain to us why you chose them.
 
