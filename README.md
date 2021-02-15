@@ -1,7 +1,4 @@
 
-<div align="center">
-    <img width="500" src="./screenshots/logo.jpg" align="center" />
-</div>
 
 We are a group of researchers from various disciplines: Psychology, Linguistics, and Computer Science. Together we are developing systems and data sets to uncover media bias, or unbalanced coverage, for private or professional news consumers. We share the common vision of understanding how and why humans perceive news content as being biased, or one-sided. Within one year, our group has grown from one founder to over twenty members. You can find more about us on https://media-bias-group.com/
 
