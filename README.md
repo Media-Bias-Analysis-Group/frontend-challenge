@@ -14,7 +14,7 @@ Although this is a basic exercise, we’ll be looking for simple, well-designed 
 
 Using the provided screens as a reference, you’ll need to build a set of components to render the app. You’ll also need to request a JSON feed, filter that data, and use the relevant fields. 
 
-We have provided mock movie data as a JSON file. While requesting JSON feed, we also ask you to use Redux for storing incoming data. So this stored data will be used when you build the app and the components.
+We have provided mock movie data as a JSON file. While requesting JSON feed, we also ask you to store incoming data, which will be used when you build the app and the components.
 
 Use the returned data to display a page of results that matches the given design.
 
